@@ -1,5 +1,5 @@
 # ChatBot
-#i dont would make more sry
+# i dont would make more sorry ps dont forgot for tab's
 answera = "no"
 answeraa = "yes"
 int = input(print("Are u gay?"))
